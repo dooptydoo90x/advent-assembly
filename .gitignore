@@ -1,0 +1,4 @@
+/y2015/*/*
+!y2015/*/*.s
+!y2015/*/Makefile
+!.gitignore
